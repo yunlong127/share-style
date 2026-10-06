@@ -1,0 +1,16 @@
+# Java build artifacts
+*.class
+backend/target/
+backend/libs/
+backend/uploads/
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+
+# IDE & OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
